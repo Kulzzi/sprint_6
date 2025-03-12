@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e39f31ef-4da1-438c-99a9-28e76ff73211" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/023f4272-53c3-4620-a835-6bdd5ca0b39d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/063b2b23-197d-44a7-9473-eb2af410c83b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/0746ec38-6102-4726-ab2a-1127203e0596-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/0a249222-3bca-4bdc-a759-9252770bdb9a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/1297003e-25d0-45ad-946f-28507b3c58fe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/1d7c50e2-04a3-42f6-bd6c-f0d28646e117-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/1e98c3d1-9eb0-4414-9530-18c1be420c58-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/26a028f1-7db4-4800-9b75-c74f0e31da94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/29213aec-f812-4abd-94b2-ddff34bd07ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/33c649fb-26df-4cfe-8579-793befc6d5e9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/513c59a6-d34c-411e-930b-77b2a9e5c760-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/574789c1-6247-442f-91da-72578fe60e93-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/61b45fbf-0a60-41b2-ac9d-3a51ef84771d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/629f135a-0980-404e-8174-9a527da77b18-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/65ff4531-0770-42d7-b401-927fd6c8793a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/68ed82a8-75f8-498c-ab06-8f456ab4eaa0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/6f7fefdf-5992-4a2a-9e05-9d8f0d01914b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/74c6c4f1-9727-4b68-a160-2cbf06ba2a1b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/77eb58ba-fef4-474e-90b6-27057356c2d4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/788a3b06-7cc6-4317-8b56-3ada00597887-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/815e1ab8-8f3a-438c-8c17-56a31d00bce5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/87fc4545-287a-4052-95fa-73581858ce66-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/8916cf2c-618d-4069-934a-71ea2808328c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/8975f273-d4f9-4d37-91c7-f1bed1c37413-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/8cc2a332-58a8-40f5-a08f-ff5a079f07b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/8ef4cb7f-f9e0-4fdd-ae43-caea1544edab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/8f37fb62-6bce-4607-912e-d48bd0b7a4af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/94646ca6-59a8-4fa6-a6ed-deb71dd63e23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/aa102796-954a-46d9-8bab-e333ca3b5c66-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/aae25ab5-2a00-4565-bc5b-64b093bbdbff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/ac660345-d842-4e1d-93ef-251b0cc3ec3a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/ad689be5-fc9a-408d-9f09-6a7b794204b5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/b4923177-6875-4155-b674-d0763e13e350-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/b64c9619-846d-42f1-9343-1ee4c61b60e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/ba49c3d7-d721-4fab-b21f-23db50efa409-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/bb34768d-89f5-4220-927a-9dbf19105eef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/bb3b94e8-8af7-49ae-aa34-e272ad68a336-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/bd8a6071-7cc2-44ad-bea5-8c866ce09196-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/cbde1d45-ca48-48ec-9e56-5df4d358b726-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/d14e9032-cb7e-4807-abe6-483cc6a0e6ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/d2790e2f-c8b8-4a97-8ff8-c78ace15a2cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/d5f597d5-3eab-4daa-b28f-0b75037f1d27-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/dba1fbce-8043-4388-8ae8-b9e12cfe00a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/de934577-2738-4de3-8bcd-24f219941fec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/e249e8e5-e41c-4c23-a904-6d2fb31b59ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/e78f183f-c1b8-41ff-a0c3-bb7ad8c54262-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/ef1e6f9e-cf4f-4fb3-aa00-c6bcf0052342-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/f9532f57-a648-4ed0-9792-e16afa7db10d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_objects/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_objects/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_objects/order_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_order_page.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kulzzi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kulzzi/sprint_6.git&quot;,
+    &quot;accountId&quot;: &quot;54106b06-91ec-4d53-9d86-4e259c92bce9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2u5XKhjQ11kkNsmM8Lqhoqlbswc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dakulzz/PycharmProjects/sprint_6&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e39f31ef-4da1-438c-99a9-28e76ff73211" name="Changes" comment="" />
+      <created>1741539346597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741539346597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
