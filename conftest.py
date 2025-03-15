@@ -11,11 +11,9 @@ def driver(request):
     driver.quit()
 
 
-@pytest.fixture(params=["data1", "data2"],scope="class")
+@pytest.fixture(params=[1, 2],scope="class")
 def order(request, driver):
-    if request.param == "data1":
-        order = Order()
-    if request.param == "data2":
-        order = Order()
-
+    order = Order()
     request.cls.order = order
+    return order
+

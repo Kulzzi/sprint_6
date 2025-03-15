@@ -9,19 +9,24 @@ class OrderPageScooter(BasePageScooter):
     def __init__(self, driver, order):
         super().__init__(driver)
         self.order = order
+    #не очень понимаю что от меня требуется
 
+    @allure.step('Ввод имени')
     def set_name(self):
         element = self.driver_find_element(LocatorsOrderPage.name_field)
         self.driver_send_keys_to_element(element, self.order.name)
 
+    @allure.step('Ввод фамилии')
     def set_surname(self):
         element = self.driver_find_element(LocatorsOrderPage.surname_field)
         self.driver_send_keys_to_element(element, self.order.surname)
 
+    @allure.step('Ввод адреса доставки')
     def set_address(self):
         element = self.driver_find_element(LocatorsOrderPage.address_field)
         self.driver_send_keys_to_element(element, self.order.address)
 
+    @allure.step('Выбор станции метро')
     def choose_station(self):
         element = self.driver_find_element(LocatorsOrderPage.station_field_1)
         self.driver_wait_for_clickable_element(LocatorsOrderPage.station_field_1)
@@ -36,14 +41,17 @@ class OrderPageScooter(BasePageScooter):
                 self.driver_click_element(element)
                 break
 
+    @allure.step('Ввод номера телефона')
     def set_telephone(self):
         element = self.driver_find_element(LocatorsOrderPage.telephone_field)
         self.driver_send_keys_to_element(element, self.order.telephone)
 
+    @allure.step('Нажатие на кнопку "Далее"')
     def click_sign_in_button(self):
         element = self.driver_find_element(LocatorsOrderPage.order_button_next)
         self.driver_click_element(element)
 
+    @allure.step('Выбор даты доставки')
     def set_date(self):
         element = self.driver_find_element(LocatorsOrderPage.date_field)
         self.driver_click_element(element)
@@ -52,26 +60,31 @@ class OrderPageScooter(BasePageScooter):
         element = self.driver_find_element([By.XPATH, f".//div[text()={day_str}]"])
         self.driver_click_element(element)
 
+    @allure.step('Выбор периода аренды')
     def choose_rental_period(self):
         element = self.driver_find_element(LocatorsOrderPage.rental_period_field)
         self.driver_click_element(element)
         element = self.driver_find_element([By.XPATH, f".//div[text()='{self.order.rental_period}']"])
         self.driver_click_element(element)
 
+    @allure.step('Выбор цвета')
     def choose_color(self):
         element = self.driver_find_element(LocatorsOrderPage.color_field)
         self.driver_click_element(element)
         element = self.driver_find_element([By.ID, f"{self.order.color}"])
         self.driver_click_element(element)
 
+    @allure.step('Ввод комментария к заказу')
     def set_comment(self):
         element = self.driver_find_element(LocatorsOrderPage.comment_field)
         self.driver_send_keys_to_element(element, self.order.comment)
 
+    @allure.step('Нажатие кнопки "Заказать"')
     def click_sign_in_button2(self):
         element = self.driver_find_elements(LocatorsOrderPage.order_button_final)[1]
         self.driver_click_element(element)
 
+    @allure.step('Создание заказа')
     def make_order(self, locator=LocatorsOrderPage.order_button_up):
         self.go_to_site()
         element = self.driver_find_element(locator)
@@ -96,6 +109,7 @@ class OrderPageScooter(BasePageScooter):
         if self.driver_find_element(LocatorsOrderPage.pop_up_window):
             return True
 
+    @allure.step('Переход на основную страницу по нажатию на логотип "Самокат"')
     def go_from_logo_samokat_to_home_page(self):
         element = self.driver_find_element(LocatorsOrderPage.order_button_not)
         self.driver_click_element(element)
@@ -103,6 +117,7 @@ class OrderPageScooter(BasePageScooter):
         self.driver_click_element(element)
         self.driver_wait_for_visibile_element(LocatorsOrderPage.logo_scooter)
 
+    @allure.step('Переход на страницу Дзен по нажатию на логотип "Яндекс"')
     def go_from_logo_yandex_to_dzen(self):
         element = self.driver_find_element(LocatorsOrderPage.order_button_not)
         self.driver_click_element(element)
