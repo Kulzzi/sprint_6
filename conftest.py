@@ -1,6 +1,5 @@
 import pytest
 from selenium import webdriver
-from helpers import Order
 
 @pytest.fixture(scope="class")
 def driver(request):
@@ -11,10 +10,4 @@ def driver(request):
     driver.quit()
 
 
-@pytest.fixture(params=[1, 2],scope="class")
-def order(request, driver):
-    order = Order()
-    request.cls.order = order
-    return order
 
-#тоже не понимаю как это исправить
