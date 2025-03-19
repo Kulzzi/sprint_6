@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e39f31ef-4da1-438c-99a9-28e76ff73211" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page_objects/order_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_objects/order_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_order_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_order_page.py" afterDir="false" />
-    </list>
+    <list default="true" id="e39f31ef-4da1-438c-99a9-28e76ff73211" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +66,7 @@
     "Python.order_page.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#3 on develop",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "C:/Users/Dakulzz/PycharmProjects/sprint_6/page_objects",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
